@@ -1,5 +1,8 @@
-<h1 align="center">👋 Hello! I'm K.Himash Madushanka</h1>
-<h3 align="center" style="color:#00bfff;">Data Science | Business Analysis | Full Stack Development</h3>
+<h1 align="center">👋 Hello! K.Himash Madushanka</h1>
+
+<h3 align="center">
+  <span class="typing-animation">Data Science | Business Analysis | Full Stack Development</span>
+</h3>
 
 ---
 
@@ -82,3 +85,26 @@ I'm always open to collaborating on impactful projects and contributing to the *
 ---
 
 ⭐ *“Turning data into insights, and insights into action.”* 🚀
+
+<!-- Typing animation CSS -->
+<style>
+  .typing-animation {
+    border-right: 3px solid #00bfff;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 20px;
+    animation: typing 4s steps(70, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: #00bfff; }
+  }
+</style>
