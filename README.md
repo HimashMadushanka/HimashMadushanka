@@ -68,16 +68,16 @@ I'm always open to collaborating on impactful projects and contributing to the *
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="mailto:sankajithd.jinasena@gmail.com">
+  <a href="mailto:sankajithd.jina">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sankajith-d-jinasena">
+  <a href="https://www.linkedin.com/in/sankajit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SankajithDJinasena">
+  <a href="https://github.com/Sank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sankajithd.jinasena">
+  <a href="https://medium.com/@">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
