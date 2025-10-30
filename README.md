@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Sankajith D. Jinasena</h1>
+<h1 align="center">👋 Hello! I'm K.Himash Madushanka</h1>
 
 <h3 align="center">
   <span class="typing-animation">Data Science | Business Analysis | Full Stack Development</span>
