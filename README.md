@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello! I'm K.Himash Madushanka</h1>
 
 <h3 align="center">
-  <span class="typing-animation">Data Science | Business Analysis | Full Stack Development</span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Business+Analyst+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </h3>
 
 ---
@@ -17,31 +19,58 @@ I'm always open to collaborating on impactful projects and contributing to the *
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📈 GitHub Stats
 
-### 💻 Core Languages
-- Python • JavaScript • SQL • PHP • HTML • CSS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashMadushanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashMadushanka&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-### 📊 Data Science & Business Analysis
+<br/>
+
+## 🛠️ Skills & Tech Stack
+
+### 📊 Data Science & Business Analytics
 <p align="left">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,anaconda,pytorch,tensorflow" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-#ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-7798B9?style=flat-square&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🌐 Full Stack Development
+### 🚀 Full Stack Development
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,flask,bootstrap" />
+  </a>
 </p>
 
+### 🧠 I'm Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,aws,docker,mongodb,nodejs" />
+  </a>
+</p>
+
+### 💻 IDEs & General Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />
+  </a>
+</p>
 ---
 
 ## 💡 Current Focus & Learning Path
@@ -49,7 +78,7 @@ I'm always open to collaborating on impactful projects and contributing to the *
 - Building **interactive data dashboards** and **analytical reports**
 - Exploring **Business Analytics & Predictive Modeling**
 - Designing **end-to-end web applications** with modern tools
-- Learning **Cloud & Database Management** for scalable solutions
+- Learning **Cloud (AWS/Azure) & Database Management** for scalable solutions
 - Enhancing **problem-solving and decision-making** through data
 
 ---
@@ -62,6 +91,16 @@ I'm always open to collaborating on impactful projects and contributing to the *
 - **Data Science:** Built data pipelines and predictive models for real-world datasets  
 - **Data Analysis:** Conducted exploratory and statistical analysis for informed decision-making  
 - **Full Stack Development:** Developed dynamic websites and database-driven applications using PHP, MySQL, and JavaScript  
+
+---
+
+## 🎧 My Down Time
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</p>
 
 ---
 
@@ -81,6 +120,6 @@ I'm always open to collaborating on impactful projects and contributing to the *
 
 ---
 
+<p align="center">
 ⭐ *“Turning data into insights, and insights into action.”* 🚀
-
-
+</p>
