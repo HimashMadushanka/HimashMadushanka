@@ -77,9 +77,10 @@ I'm always open to collaborating on impactful projects and contributing to the *
 
 - Building **interactive data dashboards** and **analytical reports**
 - Exploring **Business Analytics & Predictive Modeling**
+- Enhancing **problem-solving and decision-making** through data
 - Designing **end-to-end web applications** with modern tools
 - Learning **Cloud (AWS/Azure) & Database Management** for scalable solutions
-- Enhancing **problem-solving and decision-making** through data
+
 
 ---
 
