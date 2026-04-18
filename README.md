@@ -122,5 +122,5 @@ I'm always open to collaborating on impactful projects and contributing to the *
 ---
 
 <p align="center">
-⭐ *“Turning data into insights, and insights into action.”* 🚀
+
 </p>
