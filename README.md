@@ -19,18 +19,20 @@
 ## 🧠 About Me
 
 
-I'm **K. Himash Madushanka**, a driven data professional from **Sri Lanka 🌍** pursuing a **BSc (Hons) in Data Science**. I work across the full data spectrum — from analysing datasets and engineering reliable pipelines to delivering business intelligence that supports real decisions.
+I'm **K. Himash Madushanka**, a driven data professional from **Sri Lanka 🌍** pursuing a **BSc (Hons) in Data Science**. I work across the full data spectrum  from analysing datasets and engineering reliable pipelines to delivering business intelligence that supports real decisions.
 
-With a strong command of **Python, SQL, Machine Learning, and Data Visualization**, I bridge the technical and strategic sides of data. My focus areas — **Data Analysis, Machine Learning, and Business Intelligence** — reflect a single core belief:
+With a strong command of **Python, SQL, Machine Learning, and Data Visualization**, I bridge the technical and strategic sides of data. My focus areas **Data Analysis, Machine Learning, and Business Intelligence**  reflect a single core belief:
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashMadushanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashMadushanka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HimashMadushanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashMadushanka&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
 <div align="center">
@@ -143,6 +145,7 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 🔵 Apache Spark & Big Data Processing
 🔵 Advanced MLOps & Model Deployment
 🔵 MongoDB & NoSQL Data Modeling
+🔵 Continuous Learning & Research Mindset
 ```
 
 ---
