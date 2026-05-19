@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=200&section=header&text=John%20Doe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Business%20Analyst&descAlignY=58&descSize=16&descColor=90e0ef&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=200&section=header&text=K.%20Himash%20Madushanka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Business%20Analyst&descAlignY=58&descSize=16&descColor=90e0ef&animation=fadeIn" />
 
 </div>
 
@@ -21,17 +21,18 @@
 ```python
 class DataProfessional:
     def __init__(self):
-        self.name       = "John Doe"
-        self.role       = ["Data Analyst", "Data Engineer", "Data Scientist", "Business Analyst"]
-        self.education  = "BSc (Hons) in Data Science — Your University"
-        self.location   = "Your City, Country 🌍"
-        self.languages  = ["Python", "R", "SQL", "JavaScript"]
-        self.interests  = ["Predictive Modeling", "Data Pipelines", "Business Intelligence", "Cloud Analytics"]
+        self.name = "K. Himash Madushanka"
+        self.role = ["Data Analyst", "Data Engineer", "Business Analyst"]
+        self.education = "BSc (Hons) in Data Science"
+        self.location = "Sri Lanka 🌍"
+        self.languages = ["Python", "SQL", "ML", "JavaScript"]
+        self.interests = ["Data Analysis", "Machine Learning", "Business Intelligence"]
 
     def mission(self):
-        return "Transforming complex data into clear, actionable decisions."
+        return "Turning data into meaningful business insights."
 
 me = DataProfessional()
+print(me.mission())
 print(me.mission())
 ```
 
@@ -40,12 +41,13 @@ print(me.mission())
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashMadushanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashMadushanka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johndoe&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=90e0ef&currStreakLabel=caf0f8" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HimashMadushanka&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=90e0ef&currStreakLabel=caf0f8" height="160"/>
 </div>
 
 ---
@@ -153,7 +155,6 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 🔵 AWS Cloud Architecture & Data Services
 🔵 Apache Spark & Big Data Processing
 🔵 Advanced MLOps & Model Deployment
-🔵 React.js for Data Dashboard Frontends
 🔵 MongoDB & NoSQL Data Modeling
 ```
 
@@ -162,7 +163,7 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johndoe&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0077b6&point=90e0ef&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimashMadushanka&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0077b6&point=90e0ef&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -174,7 +175,6 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johndoe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johndoe)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johndoe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://johndoe.dev)
 
 </div>
 
