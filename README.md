@@ -28,14 +28,6 @@ With a strong command of **Python, SQL, Machine Learning, and Data Visualization
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HimashMadushanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashMadushanka&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HimashMadushanka&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=90e0ef&currStreakLabel=caf0f8" height="160"/>
 </div>
 
@@ -75,7 +67,7 @@ With a strong command of **Python, SQL, Machine Learning, and Data Visualization
 
 ### 🌐 Full Stack Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,flask,bootstrap,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,flask,bootstrap&theme=dark" />
 </p>
 
 ### ☁️ Cloud & DevOps (Learning)
@@ -85,7 +77,7 @@ With a strong command of **Python, SQL, Machine Learning, and Data Visualization
 
 ### 🧰 Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" />
 </p>
 
 ---
@@ -131,10 +123,10 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 
 | Project | Domain | Tools Used | Status |
 |---|---|---|---|
-| 📉 **Sales Forecasting Dashboard** | Business Analytics | Python · Power BI · SQL | ✅ Complete |
-| 🧬 **Customer Churn Predictor** | Machine Learning | Scikit-learn · XGBoost · Flask | ✅ Complete |
-| 🏗️ **ETL Data Pipeline** | Data Engineering | Python · MySQL · Docker | 🔄 In Progress |
-| 🌐 **Business Intelligence Portal** | Full Stack + BI | PHP · JS · Tableau | 🔄 In Progress |
+| 📉 **Sales-Performance-Analysis-Power-BI-Dashboard ** | Business Analytics | Python · Power BI · SQL | ✅ Complete |
+| 🧬 **ShopEasy** | Html | Python | Flask | Css | Sql | JS | ✅ Complete |
+| 🏗️ **HealthTrack** | Php | Html| Css| MySQL | ✅ Complete |
+| 🌐 **AI Based Business Analyzer | Python | Pandas | NumPay | Matplotlib | Prophet |✅ Complete |
 
 ---
 
