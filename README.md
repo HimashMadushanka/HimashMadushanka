@@ -119,14 +119,13 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 
 ## 🚀 Featured Projects
 
-> 🚧 Detailed project showcases arriving soon — exciting things in progress!
 
 | Project | Domain | Tools Used | Status |
 |---|---|---|---|
 | 📉 **Sales-Performance-Analysis-Power-BI-Dashboard ** | Business Analytics | Python · Power BI · SQL | ✅ Complete |
-| 🌐 **AI Based Business Analyzer | Python | Pandas | NumPay | Matplotlib | Prophet |✅ Complete |
-| 🛒 **ShopEasy** | Html | Python | Flask | Css | Sql | JS | ✅ Complete |
-| 🏥 **HealthTrack** | Php | Html| Css| MySQL | ✅ Complete |
+| 🌐 **AI Based Business Analyzer | Data Science | Python · Pandas · NumPay · Matplotlib |✅ Complete |
+| 🛒 **ShopEasy** | Web Development| Html · Python · Flask·Sql  | ✅ Complete |
+| 🏥 **HealthTrack** | Web Development | Php · Html · Css · MySQL | ✅ Complete |
 
 ---
 
@@ -164,8 +163,6 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 ---
 
 <div align="center">
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer"/>
 
