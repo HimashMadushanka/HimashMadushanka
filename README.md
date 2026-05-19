@@ -18,23 +18,10 @@
 
 ## 🧠 About Me
 
-```python
-class DataProfessional:
-    def __init__(self):
-        self.name = "K. Himash Madushanka"
-        self.role = ["Data Analyst", "Data Engineer", "Business Analyst"]
-        self.education = "BSc (Hons) in Data Science"
-        self.location = "Sri Lanka 🌍"
-        self.languages = ["Python", "SQL", "ML", "JavaScript"]
-        self.interests = ["Data Analysis", "Machine Learning", "Business Intelligence"]
 
-    def mission(self):
-        return "Turning data into meaningful business insights."
+I'm **K. Himash Madushanka**, a driven data professional from **Sri Lanka 🌍** pursuing a **BSc (Hons) in Data Science**. I work across the full data spectrum — from analysing datasets and engineering reliable pipelines to delivering business intelligence that supports real decisions.
 
-me = DataProfessional()
-print(me.mission())
-print(me.mission())
-```
+With a strong command of **Python, SQL, Machine Learning, and Data Visualization**, I bridge the technical and strategic sides of data. My focus areas — **Data Analysis, Machine Learning, and Business Intelligence** — reflect a single core belief:
 
 ---
 
