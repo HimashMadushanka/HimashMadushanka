@@ -33,52 +33,58 @@ With a strong command of **Python, SQL, Machine Learning, and Data Visualization
 
 ---
 
-## 🛠️ Tech Stack & Tools
 
-### 📈 Data Science & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,anaconda&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-7798B9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack & Tools
 
 ### 🏗️ Data Engineering & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=docker,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,docker&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-4479A1?style=for-the-badge"/>
 </p>
 
-### 📊 Business Intelligence & Visualization
+### 🤖 Machine Learning & Artificial Intelligence
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-6C3483?style=for-the-badge"/>
+</p>
+
+### 📊 Data Analytics & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-7798B9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🌐 Full Stack Development
+### 💼 Business Analysis & Business Intelligence
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,flask,bootstrap&theme=dark" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Requirements%20Analysis-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps (Learning)
+### 🌐 Web Development & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,flask,bootstrap,postman&theme=dark" />
 </p>
 
-### 🧰 Tools & Environment
+### ☁️ Cloud, DevOps & Developer Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode&theme=dark" />
 </p>
+
 
 ---
 
