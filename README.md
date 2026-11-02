@@ -123,18 +123,6 @@ Translating data into business value — dashboards, KPI frameworks, and strateg
 
 ---
 
-## 🚀 Featured Projects
-
-
-| Project | Domain | Tools Used | Status |
-|---|---|---|---|
-| 📉 **Sales-Performance-Analysis-Power-BI-Dashboard ** | Business Analytics | Python · Power BI · SQL | ✅ Complete |
-| 🌐 **AI Based Business Analyzer | Data Science | Python · Pandas · NumPay · Matplotlib |✅ Complete |
-| 🛒 **ShopEasy** | Web Development| Html · Python · Flask·Sql  | ✅ Complete |
-| 🏥 **HealthTrack** | Web Development | Php · Html · Css · MySQL | ✅ Complete |
-
----
-
 ## 📚 Currently Learning
 
 ```
